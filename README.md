@@ -60,3 +60,10 @@ Welcome to the STM32 RoboIME Classroom repository! This repository is your go-to
 Your feedback is crucial for enhancing the content and direction of this repository. If you have any suggestions, questions, or concerns, please reach out.
 
 Get ready to elevate your STM32 debugging skills with our comprehensive series! 🛠️
+
+## Trainees Area
+### Task 1 (Know-how FreeRTOS works)
+
+**Trainee:** [Favalessa](Add your git url here)
+**Date:** 18/20  
+**Resume:** It's so cool bc ...
