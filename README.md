@@ -64,6 +64,10 @@ Get ready to elevate your STM32 debugging skills with our comprehensive series! 
 ## Trainees Area
 ### Task 1 (Know-how FreeRTOS works)
 
-**Trainee:** [Favalessa](Add your git url here)
-**Date:** 18/20  
-**Resume:** It's so cool bc ...
+**Trainee:** [Favalessa](https://github.com/dekera)
+**Date:** 18/05/2024
+**Resume:** Being a class of the RTOS the FreeRTOS is small enough to run on a microcontroller and provides certain functionalities such as inter-task communication, real time scheduling functionality, timing and synchronisation primitives for the core. With those functionalities it's possible to decide which program to run and when specifying that the embedded system must respond to a certain event within a deadline(certain strictly defined time). In particular, the FreeRTOS scheduler achieve the execution pattern by allowing the user choose the priority to each thread of execution. Thus, it's very important and effective when we need to do simultaneously tasks that needs to be classified with priorities.
+
+**Trainee:** [Galvão](Add your git url here)
+**Date:** 18/05/2024
+**Resume:** It's so cool bc...
